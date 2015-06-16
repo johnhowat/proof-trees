@@ -1,0 +1,4 @@
+~(#x((Ax & Bx) & ~Cx))
+~(#x(Ax & ~Bx))
+@x(Cx > ~(Sx + Tx))
+~(#x(Ax & Tx))

@@ -1,0 +1,4 @@
+@x(Ox > @y(Ry > ~Lxy))
+@x(Ox > #y(Hy & Lxy))
+#x(Ox)
+#x(Hx & ~Rx)

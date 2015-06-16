@@ -1,0 +1,4 @@
+~(@x(Fx) + #x(Gx))
+@x(Hx > Fx)
+(#x(~Hx) & @x(Sx)) > #x(Gx)
+#x(~Sx)
